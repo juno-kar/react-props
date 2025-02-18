@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  padding: 20px 20px 40px 20px;
+  font-family: 'JosefinSans';
+  background-color: #b6b0a8;
+}
+
+.App h1 {
+    font-size: 42px;
+    margin-bottom: 30px;
+    color: #2d2d2d;
+    font-family: 'JosefinSans';
+    font-weight: 700;
+}
