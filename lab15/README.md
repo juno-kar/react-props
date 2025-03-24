@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Під час виконання роботи була використана бібліотека MUI, а також Fontsource для підключення шрифтів.
+Команда для встановлення шрифтів:   npm install @fontsource/josefin-sans @fontsource/indie-flower
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
